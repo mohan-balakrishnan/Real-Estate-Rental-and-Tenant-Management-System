@@ -20,7 +20,7 @@ Demo Site - [Property Plus](https://property-plus.onrender.com/)
 
 ### Prerequisites
 
-- Install Node.js Version 16 in ubuntu
+- Install Node.js Version 16 in ubuntu, allow port 3000 & 5000
 
 1. Clone the repository:
 
